@@ -409,6 +409,7 @@
 
         /**
         * @description 表格转换状态开关
+        * @description html: <div id="jq-switcher-wrap"><a class="jq-table-switch on" id="table_switch"><i></i></a></div>
         * @param {String|HTMLelement|JQueryInstance} switcher
         * @param {String|HTMLelement|JQueryInstance} host
         * @param {function} trigger 开启table_transformer的函数
